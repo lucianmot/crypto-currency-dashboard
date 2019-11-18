@@ -1,3 +1,19 @@
+# Crypto Currency Dashboard
+
+Create a “Crypto currency dashboard” that:
+    • Connects to the coinmarketcap API https://coinmarketcap.com/api/
+    • Displays the $USD value of various crypto currencies
+    • Creation of a crypto currency portfolio with the insertion of multiple numeric crypto currency holdings e.g. 0.75 BTC and save in a persistent store (database or otherwise) of your choice
+    • Ability to load a saved portfolio
+    • Display a portfolio’s total value in $USD
+    • Programming languages allowed: Javascript, NodeJS, HTML5, CSS - note that frameworks such as Angular/React are allowed
+    • All work should be committed into a git repository that you can share with us (i.e. Github) to provide evidence of version control – please try to commit small and often
+    • User signup/login is not required
+    • Some level of unit testing is desirable
+
+When you come in for interview, you will be given a pair-programming exercise to add a feature to your codebase. During this exercise we are going to analyze your code structure (JS, CSS and HTML), your problem-solving approach, and your ability to discuss your thought processes as you implement the feature.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
